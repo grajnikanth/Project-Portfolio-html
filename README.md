@@ -13,3 +13,4 @@ responsive.css
 To install just clone or download the files. 
 
 The command to clone these files is 
+git clone https://github.com/grajnikanth/Project-Portfolio-html.git
